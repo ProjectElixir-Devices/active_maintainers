@@ -145,5 +145,12 @@
         "country": "",
         "github": "https://github.com/xioyo",
         "telegram": "https://telegram.me/xioyou"
+    },
+    {
+        "avatar": "./assets/images/maintainer_avatar3.png",
+        "maintainer": "William_Sado",
+        "country": "",
+        "github": "https://github.com/sadoyui",
+        "telegram": "https://telegram.me/William_sadoyui"
     }
 ]
