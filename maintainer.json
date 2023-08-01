@@ -145,5 +145,12 @@
         "country": "",
         "github": "https://github.com/xioyo",
         "telegram": "https://telegram.me/xioyou"
+    },
+    {
+        "avatar": "./assets/images/maintainer_avatar3.png",
+        "maintainer": "Raizel",
+        "country": "",
+        "github": "https://github.com/acex69",
+        "telegram": "https://telegram.me/acex88"
     }
 ]
