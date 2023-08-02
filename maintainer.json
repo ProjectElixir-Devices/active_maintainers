@@ -152,5 +152,12 @@
         "country": "",
         "github": "https://github.com/acex69",
         "telegram": "https://telegram.me/acex88"
+    },
+    {
+        "avatar": "./assets/images/maintainer_avatar3.png",
+        "maintainer": "William_Sado",
+        "country": "",
+        "github": "https://github.com/sadoyui",
+        "telegram": "https://telegram.me/William_sadoyui"
     }
 ]
