@@ -159,5 +159,12 @@
         "country": "",
         "github": "https://github.com/sadoyui",
         "telegram": "https://telegram.me/William_sadoyui"
+    },
+    {
+        "avatar": "./assets/images/maintainer_avatar3.png",
+        "maintainer": "Krishna",
+        "country": "",
+        "github": "https://github.com/pure-soul-kk",
+        "telegram": "https://telegram.me/pure_soul_kk"
     }
 ]
