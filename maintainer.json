@@ -22,27 +22,6 @@
     },
     {
         "avatar": "./assets/images/maintainer_avatar.jpg",
-        "maintainer": "Zaid",
-        "country": "India",
-        "github": "https://github.com/zaidkhan0997",
-        "telegram": "https://telegram.me/zaidkhan0997"
-    },
-    {
-        "avatar": "./assets/images/maintainer_avatar2.jpg",
-        "maintainer": "Mehdi",
-        "country": "Morocco",
-        "github": "https://github.com/dark-free",
-        "telegram": "https://telegram.me/freesoul00"
-    },
-    {
-        "avatar": "./assets/images/maintainer_avatar.jpg",
-        "maintainer": "SriBalaji",
-        "country": "India",
-        "github": "https://github.com/iamthecloverly",
-        "telegram": "https://telegram.me/TheCloverly"
-    },
-    {
-        "avatar": "./assets/images/maintainer_avatar.jpg",
         "maintainer": "Saad",
         "country": "",
         "github": "https://github.com/MudabbirulSaad",
@@ -75,13 +54,6 @@
         "country": "India",
         "github": "https://github.com/Amritorock",
         "telegram": "https://telegram.me/Amritorock"
-    },
-    {
-        "avatar": "./assets/images/maintainer_avatar3.png",
-        "maintainer": "KSSRAO",
-        "country": "India",
-        "github": "https://github.com/kssrao13882",
-        "telegram": "https://telegram.me/kssrao13882"
     },
     {
         "avatar": "./assets/images/maintainer_avatar3.png",
