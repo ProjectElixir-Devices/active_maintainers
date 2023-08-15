@@ -173,5 +173,12 @@
         "country": "",
         "github": "https://github.com/sreelekshman",
         "telegram": "https://telegram.me/sreelekshman"
+    },
+    {
+        "avatar": "./assets/images/maintainer_avatar3.png",
+        "maintainer": "Yularzhi",
+        "country": "",
+        "github": "https://github.com/Yularzhi",
+        "telegram": "https://telegram.me/Yul_Nicolai"
     }
 ]
