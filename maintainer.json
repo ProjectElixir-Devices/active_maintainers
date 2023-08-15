@@ -159,5 +159,12 @@
         "country": "Bangladesh",
         "github": "https://github.com/AbrarNoob",
         "telegram": "https://telegram.me/AbrarNoob"
+    },
+    {
+        "avatar": "./assets/images/maintainer_avatar3.png",
+        "maintainer": "Abrar",
+        "country": "Bangladesh",
+        "github": "https://github.com/AbrarNoob",
+        "telegram": "https://telegram.me/AbrarNoob"
     }
 ]
