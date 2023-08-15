@@ -162,9 +162,16 @@
     },
     {
         "avatar": "./assets/images/maintainer_avatar3.png",
-        "maintainer": "Abrar",
+        "maintainer": "FrEeRuNnEr4EvEr",
+        "country": "Canada",
+        "github": "https://github.com/LeDrew2017",
+        "telegram": "https://telegram.me/FreeRunner4ever"
+    },
+    {
+        "avatar": "./assets/images/maintainer_avatar3.png",
+        "maintainer": "Mohammad Al Arabi",
         "country": "Bangladesh",
-        "github": "https://github.com/AbrarNoob",
-        "telegram": "https://telegram.me/AbrarNoob"
+        "github": "https://github.com/MohammadAlArabi",
+        "telegram": "https://telegram.me/YourDulavai"
     }
 ]
