@@ -173,5 +173,12 @@
         "country": "Bangladesh",
         "github": "https://github.com/MohammadAlArabi",
         "telegram": "https://telegram.me/YourDulavai"
+    },
+    {
+        "avatar": "./assets/images/maintainer_avatar3.png",
+        "maintainer": "FPSensor",
+        "country": "Argentina",
+        "github": "https://github.com/FPSensor",
+        "telegram": "https://telegram.me/FPSensor"
     }
 ]
