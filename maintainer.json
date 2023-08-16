@@ -180,5 +180,12 @@
         "country": "Argentina",
         "github": "https://github.com/FPSensor",
         "telegram": "https://telegram.me/FPSensor"
+    },
+    {
+        "avatar": "./assets/images/maintainer_avatar3.png",
+        "maintainer": "Mocha",
+        "country": "India",
+        "github": "https://github.com/xyz-mocha",
+        "telegram": "https://telegram.me/official_mocha"
     }
 ]
