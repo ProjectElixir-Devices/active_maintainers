@@ -127,13 +127,6 @@
     },
     {
         "avatar": "./assets/images/maintainer_avatar3.png",
-        "maintainer": "William_Sado",
-        "country": "",
-        "github": "https://github.com/sadoyui",
-        "telegram": "https://telegram.me/William_sadoyui"
-    },
-    {
-        "avatar": "./assets/images/maintainer_avatar3.png",
         "maintainer": "Krishna",
         "country": "",
         "github": "https://github.com/pure-soul-kk",
@@ -169,7 +162,7 @@
     },
     {
         "avatar": "./assets/images/maintainer_avatar3.png",
-        "maintainer": "MD Al Arabi",
+        "maintainer": "Md Al Arabi",
         "country": "Bangladesh",
         "github": "https://github.com/MohammadAlArabi",
         "telegram": "https://telegram.me/YourDulavai"
