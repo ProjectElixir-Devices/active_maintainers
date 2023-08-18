@@ -180,5 +180,12 @@
         "country": "India",
         "github": "https://github.com/xyz-mocha",
         "telegram": "https://telegram.me/official_mocha"
+    },
+    {
+        "avatar": "./assets/images/maintainer_avatar3.png",
+        "maintainer": "Julius Ronald",
+        "country": "Indonesia",
+        "github": "https://github.com/jrjmt",
+        "telegram": "https://telegram.me/jrjmt"
     }
 ]
