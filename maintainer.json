@@ -51,7 +51,7 @@
     {
         "avatar": "./assets/images/maintainer_avatar3.png",
         "maintainer": "Amrito",
-        "country": "India",
+        "country": "Bangladesh",
         "github": "https://github.com/Amritorock",
         "telegram": "https://telegram.me/Amritorock"
     },
@@ -71,7 +71,7 @@
     },
     {
         "avatar": "./assets/images/maintainer_avatar3.png",
-        "maintainer": "Omar Mohamed (Coptan)",
+        "maintainer": "Omar Mohamed",
         "country": "Egypt",
         "github": "https://github.com/Coptan99",
         "telegram": "https://telegram.me/AlCoptan99"
@@ -113,7 +113,7 @@
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/68426327?v=4",
-        "maintainer": "xioyo",
+        "maintainer": "Xioyo",
         "country": "India",
         "github": "https://github.com/xioyo",
         "telegram": "https://telegram.me/xioyo"
@@ -121,7 +121,7 @@
     {
         "avatar": "./assets/images/maintainer_avatar3.png",
         "maintainer": "Raizel",
-        "country": "india",
+        "country": "India",
         "github": "https://github.com/acex88",
         "telegram": "https://telegram.me/acex88"
     },
@@ -187,7 +187,7 @@
         "country": "Indonesia",
         "github": "https://github.com/jrjmt",
         "telegram": "https://telegram.me/jrjmt"
-    }
+    },
     {
         "avatar": "https://avatars.githubusercontent.com/u/83027422?4",
         "maintainer": "itsXRP",
