@@ -6,6 +6,13 @@
         "github": "https://github.com/Abhishek001konni",
         "telegram": "https://telegram.me/Lopster_70"
     },
+        {
+        "avatar": "./assets/images/maintainer_avatar.png",
+        "maintainer": "Arindam Bhattacharjee (CRUECY)",
+        "country": "India",
+        "github": "https://github.com/userariii",
+        "telegram": "https://t.me/CRUECY"
+    },
     {
         "avatar": "./assets/images/team-prajjuS.jpg",
         "maintainer": "PrajjuS",
