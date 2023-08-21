@@ -201,5 +201,19 @@
         "country": "Pakistan",
         "github": "https://github.com/itsXRP",
         "telegram": "https://telegram.me/itsXRP"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/42514333?v=4",
+        "maintainer": "Sanjeev",
+        "country": "India",
+        "github": "https://github.com/sanjeevstunner",
+        "telegram": "https://telegram.me/Chandler_bing_here"
+    },
+        {
+        "avatar": "https://avatars.githubusercontent.com/u/45123301?v=4",
+        "maintainer": "Pallav Parikh",
+        "country": "India",
+        "github": "https://github.com/pallavjparikh",
+        "telegram": "https://telegram.me/pallavjparikh"
     }
 ]
