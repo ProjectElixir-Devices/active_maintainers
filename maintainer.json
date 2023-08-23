@@ -1,5 +1,33 @@
 [
     {
+        "avatar": "https://avatars.githubusercontent.com/u/44891334?v=4",
+        "maintainer": "Mayur Varde",
+        "country": "India",
+        "github": "https://github.com/marshmello61",
+        "telegram": "https://telegram.me/marshmello_61"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/45123301?v=4",
+        "maintainer": "Pallav Parikh",
+        "country": "India",
+        "github": "https://github.com/pallavjparikh",
+        "telegram": "https://telegram.me/pallavjparikh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/98325176?v=4",
+        "maintainer": "Ashish Jaswal",
+        "country": "India",
+        "github": "https://github.com/JaswalAshish",
+        "telegram": "https://telegram.me/jaswal_ashish11"
+    },
+    {
+        "avatar": "./assets/images/maintainer_avatar.png",
+        "maintainer": "Zenka",
+        "country": "Indonesia",
+        "github": "https://github.com/ZenkaBestia",
+        "telegram": "https://telegram.me/ZenkaBestia"
+    },
+    {
         "avatar": "./assets/images/team-prajjuS.jpg",
         "maintainer": "PrajjuS",
         "country": "India",
@@ -7,11 +35,53 @@
         "telegram": "https://telegram.me/PrajjuS"
     },
     {
+        "avatar": "https://avatars.githubusercontent.com/u/52695559?v=4",
+        "maintainer": "KrutosX",
+        "country": "Russia",
+        "github": "https://github.com/KrutosVIP",
+        "telegram": "https://telegram.me/KrutosX"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/71310187?v=4",
+        "maintainer": "Lynix",
+        "country": "Sweden",
+        "github": "https://github.com/ItsLynix",
+        "telegram": "https://telegram.me/LynixFox"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/33235594?v=4",
+        "maintainer": "FreeRunner",
+        "country": "Canada",
+        "github": "https://github.com/LeDrew2017",
+        "telegram": "https://telegram.me/FreeRunner4ever"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/112205924?v=4",
+        "maintainer": "FPSensor",
+        "country": "Argentina",
+        "github": "https://github.com/FPSensor",
+        "telegram": "https://telegram.me/FPSensor"
+    },
+    {
         "avatar": "https://avatars.githubusercontent.com/u/85288404?v=4",
         "maintainer": "RahulPalXDA",
         "country": "India",
         "github": "https://github.com/rahulpalxda",
         "telegram": "https://telegram.me/rahulpalxda"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/76006019?v=4",
+        "maintainer": "Abhishek",
+        "country": "India",
+        "github": "https://github.com/allworkdone",
+        "telegram": "https://telegram.me/allworkdone"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/101019800?v=4",
+        "maintainer": "Amrito",
+        "country": "Bangladesh",
+        "github": "https://github.com/Amritorock",
+        "telegram": "https://telegram.me/Amritorock"
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/71183979?v=4",
@@ -35,32 +105,11 @@
         "telegram": "https://telegram.me/NotHarshhaa"
     },
     {
-        "avatar": "./assets/images/maintainer_avatar.png",
-        "maintainer": "Zenka",
-        "country": "Indonesia",
-        "github": "https://github.com/ZenkaBestia",
-        "telegram": "https://telegram.me/ZenkaBestia"
-    },
-    {
-        "avatar": "https://avatars.githubusercontent.com/u/101019800?v=4",
-        "maintainer": "Amrito",
-        "country": "Bangladesh",
-        "github": "https://github.com/Amritorock",
-        "telegram": "https://telegram.me/Amritorock"
-    },
-    {
         "avatar": "https://avatars.githubusercontent.com/u/86119697?v=4",
         "maintainer": "Rahul Gorai",
         "country": "India",
         "github": "https://github.com/RahulGorai0206",
         "telegram": "https://telegram.me/RahulGorai"
-    },
-    {
-        "avatar": "https://avatars.githubusercontent.com/u/98325176?v=4",
-        "maintainer": "Ashish Jaswal",
-        "country": "India",
-        "github": "https://github.com/JaswalAshish",
-        "telegram": "https://telegram.me/jaswal_ashish11"
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/87261955?v=4",
@@ -89,20 +138,6 @@
         "country": "Egypt",
         "github": "https://github.com/AMWolfstein",
         "telegram": "https://telegram.me/AMWolfstein"
-    },
-    {
-        "avatar": "https://avatars.githubusercontent.com/u/52695559?v=4",
-        "maintainer": "KrutosX",
-        "country": "Russia",
-        "github": "https://github.com/KrutosVIP",
-        "telegram": "https://telegram.me/KrutosX"
-    },
-    {
-        "avatar": "https://avatars.githubusercontent.com/u/71310187?v=4",
-        "maintainer": "Lynix",
-        "country": "Sweden",
-        "github": "https://github.com/ItsLynix",
-        "telegram": "https://telegram.me/LynixFox"
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/68426327?v=4",
@@ -147,25 +182,11 @@
         "telegram": "https://telegram.me/AbrarNoob"
     },
     {
-        "avatar": "https://avatars.githubusercontent.com/u/33235594?v=4",
-        "maintainer": "FreeRunner",
-        "country": "Canada",
-        "github": "https://github.com/LeDrew2017",
-        "telegram": "https://telegram.me/FreeRunner4ever"
-    },
-    {
         "avatar": "./assets/images/maintainer_avatar.png",
         "maintainer": "Md Al Arabi",
         "country": "Bangladesh",
         "github": "https://github.com/MohammadAlArabi",
         "telegram": "https://telegram.me/YourDulavai"
-    },
-    {
-        "avatar": "https://avatars.githubusercontent.com/u/112205924?v=4",
-        "maintainer": "FPSensor",
-        "country": "Argentina",
-        "github": "https://github.com/FPSensor",
-        "telegram": "https://telegram.me/FPSensor"
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/118044457?v=4",
@@ -196,13 +217,6 @@
         "telegram": "https://telegram.me/chandlerbigg"
     },
     {
-        "avatar": "https://avatars.githubusercontent.com/u/45123301?v=4",
-        "maintainer": "Pallav Parikh",
-        "country": "India",
-        "github": "https://github.com/pallavjparikh",
-        "telegram": "https://telegram.me/pallavjparikh"
-    },
-    {
         "avatar": "https://avatars.githubusercontent.com/u/68052029?v=4",
         "maintainer": "Arindam (CRUECY)",
         "country": "India",
@@ -229,5 +243,26 @@
         "country": "Indonesia",
         "github": "https://github.com/Tanmsyffa",
         "telegram": "https://telegram.me/ursirvro"
+    },
+    {
+        "avatar": "./assets/images/maintainer_avatar.png",
+        "maintainer": "Atharv",
+        "country": "India",
+        "github": "https://github.com/NouBoi",
+        "telegram": "https://telegram.me/atharv2951"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/69458352?v=4",
+        "maintainer": "Royna",
+        "country": "South Korea",
+        "github": "https://github.com/roynatech2544",
+        "telegram": "https://telegram.me/roynatech"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/125646611?v=4",
+        "maintainer": "RJ Raijin",
+        "country": "India",
+        "github": "https://github.com/RjTangpos",
+        "telegram": "https://telegram.me/RJ_D3900"
     }
 ]
