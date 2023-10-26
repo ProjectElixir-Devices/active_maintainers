@@ -28,13 +28,6 @@
         "telegram": "https://telegram.me/ZenkaBestia"
     },
     {
-        "avatar": "./assets/images/team-prajjuS.jpg",
-        "maintainer": "PrajjuS",
-        "country": "India",
-        "github": "https://github.com/PrajjuS",
-        "telegram": "https://telegram.me/PrajjuS"
-    },
-    {
         "avatar": "https://avatars.githubusercontent.com/u/52695559?v=4",
         "maintainer": "KrutosX",
         "country": "Russia",
@@ -54,13 +47,6 @@
         "country": "Canada",
         "github": "https://github.com/LeDrew2017",
         "telegram": "https://telegram.me/FreeRunner4ever"
-    },
-    {
-        "avatar": "https://avatars.githubusercontent.com/u/112205924?v=4",
-        "maintainer": "FPSensor",
-        "country": "Argentina",
-        "github": "https://github.com/FPSensor",
-        "telegram": "https://telegram.me/FPSensor"
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/85288404?v=4",
@@ -147,13 +133,6 @@
         "telegram": "https://telegram.me/xioyo"
     },
     {
-        "avatar": "https://avatars.githubusercontent.com/u/122148266?v=4",
-        "maintainer": "Raizel",
-        "country": "India",
-        "github": "https://github.com/acex88",
-        "telegram": "https://telegram.me/acex88"
-    },
-    {
         "avatar": "./assets/images/team-krishna.png",
         "maintainer": "Krishna",
         "country": "India",
@@ -203,22 +182,22 @@
         "telegram": "https://telegram.me/jrjmt"
     },
     {
-        "avatar": "https://avatars.githubusercontent.com/u/83027422?4",
-        "maintainer": "itsXRP",
-        "country": "Pakistan",
-        "github": "https://github.com/itsXRP",
-        "telegram": "https://telegram.me/itsXRP"
+        "avatar": "https://avatars.githubusercontent.com/u/106219962?v=4",
+        "maintainer": "Vinayak",
+        "country": "India",
+        "github": "https://github.com/INCENDIOCODM",
+        "telegram": "https://telegram.me/INNUENDOCODM"
     },
     {
-        "avatar": "https://avatars.githubusercontent.com/u/42514333?v=4",
-        "maintainer": "Sanjeev",
+        "avatar": "https://avatars.githubusercontent.com/u/67923641?v=4",
+        "maintainer": "Nandu VK",
         "country": "India",
-        "github": "https://github.com/sanjeevstunner",
-        "telegram": "https://telegram.me/chandlerbigg"
+        "github": "https://github.com/thatmalayalideb",
+        "telegram": "https://telegram.me/thatmalayali"
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/68052029?v=4",
-        "maintainer": "Arindam (CRUECY)",
+        "maintainer": "Arindam",
         "country": "India",
         "github": "https://github.com/userariii",
         "telegram": "https://t.me/CRUECY"
@@ -238,18 +217,11 @@
         "telegram": "https://telegram.me/NightstarSakura"
     },
     {
-        "avatar": "https://avatars.githubusercontent.com/u/116478306?v=4",
-        "maintainer": "Sultan T",
-        "country": "Indonesia",
-        "github": "https://github.com/Tanmsyffa",
-        "telegram": "https://telegram.me/ursirvro"
-    },
-    {
-        "avatar": "./assets/images/maintainer_avatar.png",
-        "maintainer": "Atharv",
+        "avatar": "https://avatars.githubusercontent.com/u/91002031?v=4",
+        "maintainer": "Akshat Singh",
         "country": "India",
-        "github": "https://github.com/NouBoi",
-        "telegram": "https://telegram.me/atharv2951"
+        "github": "https://github.com/Legendleo90",
+        "telegram": "https://telegram.me/Legendleo90"
     },
     {
         "avatar": "https://avatars.githubusercontent.com/u/69458352?v=4",
@@ -264,5 +236,12 @@
         "country": "India",
         "github": "https://github.com/RjTangpos",
         "telegram": "https://telegram.me/RJ_D3900"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/91975183?v=4",
+        "maintainer": "Abhishek Shukla",
+        "country": "India",
+        "github": "https://github.com/abhis699",
+        "telegram": "https://telegram.me/Abhishek699"
     }
 ]
